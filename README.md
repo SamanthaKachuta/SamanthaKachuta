@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamanthaKachuta
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML CSS JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React
 - 💞️ I’m looking to collaborate on Web development
 - 📫 Reach me on LinkedIn 
 
