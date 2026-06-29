@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamanthaKachuta
+- 👋 Hi, I’m SamanthaKachuta
 - 👀 AI Engineer
 - 🌱 Proficient in HTML, CSS, JavaScript, React, Python
 - GIS Analyst
