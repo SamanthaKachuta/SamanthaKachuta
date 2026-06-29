@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @SamanthaKachuta
-- 👀 I’m interested in coding
+- 👀 AI Engineer
 - 🌱 Proficient in HTML, CSS, JavaScript, React, Python
 - Geospatial Scientist
 - AI enthusiast
-- 💞️ I’m looking to collaborate on Web development and GIS projects
 - 📫 Reach me on LinkedIn
 - 
 
